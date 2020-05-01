@@ -1114,20 +1114,20 @@ double theta;
     }// </editor-fold>//GEN-END:initComponents
 
     private void T7ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_T7ActionPerformed
-        JOptionPane.showMessageDialog(null, "Anda tidak dapat memilih kode huruf disini");
+        JOptionPane.showMessageDialog(null, "Anda tidak dapat memilih kode huruf");
     }//GEN-LAST:event_T7ActionPerformed
 
     private void T1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_T1ActionPerformed
-        JOptionPane.showMessageDialog(null, "Anda tidak dapat memilih kode huruf disini");
+        JOptionPane.showMessageDialog(null, "Anda tidak dapat memilih kode huruf");
         
     }//GEN-LAST:event_T1ActionPerformed
 
     private void T2ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_T2ActionPerformed
-        JOptionPane.showMessageDialog(null, "Anda tidak dapat memilih kode huruf disini");
+        JOptionPane.showMessageDialog(null, "Anda tidak dapat memilih kode huruf");
     }//GEN-LAST:event_T2ActionPerformed
 
     private void T3ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_T3ActionPerformed
-        JOptionPane.showMessageDialog(null, "Anda tidak dapat memilih kode huruf disini");
+        JOptionPane.showMessageDialog(null, "Anda tidak dapat memilih kode huruf");
     }//GEN-LAST:event_T3ActionPerformed
 
     private void T4ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_T4ActionPerformed
